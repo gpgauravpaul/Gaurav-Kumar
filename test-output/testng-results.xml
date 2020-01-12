@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-02T14:16:26 IST" name="Default suite" finished-at="2020-01-02T14:16:26 IST" duration-ms="141">
+    <groups>
+    </groups>
+    <test started-at="2020-01-02T14:16:26 IST" name="Default test" finished-at="2020-01-02T14:16:26 IST" duration-ms="141">
+      <class name="Selenium_Stuff.Selenium_4_Stuffs.DataProvider">
+        <test-method signature="method(java.lang.String, java.lang.String)[pri:0, instance:Selenium_Stuff.Selenium_4_Stuffs.DataProvider@1d548a08]" started-at="2020-01-02T14:16:26 IST" name="method" data-provider="test" finished-at="2020-01-02T14:16:26 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[First]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Second]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="method(java.lang.String, java.lang.String)[pri:0, instance:Selenium_Stuff.Selenium_4_Stuffs.DataProvider@1d548a08]" started-at="2020-01-02T14:16:26 IST" name="method" data-provider="test" finished-at="2020-01-02T14:16:26 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Third]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Forth]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="method(java.lang.String, java.lang.String)[pri:0, instance:Selenium_Stuff.Selenium_4_Stuffs.DataProvider@1d548a08]" started-at="2020-01-02T14:16:26 IST" name="method" data-provider="test" finished-at="2020-01-02T14:16:26 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fifth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sixth]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- Selenium_Stuff.Selenium_4_Stuffs.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

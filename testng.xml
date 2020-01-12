@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Selenium_Stuff.Selenium_4_Stuffs.adding_Multiple_Products_In_Cart"/>
+      <class name="Selenium_Stuff.Selenium_4_Stuffs.Select_Class"/>
+      <class name="Selenium_Stuff.Selenium_4_Stuffs.TestClass1"/>
+    </classes>
+  </test>
+</suite> 
