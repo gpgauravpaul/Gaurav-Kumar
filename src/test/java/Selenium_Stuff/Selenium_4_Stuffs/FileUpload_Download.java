@@ -19,6 +19,7 @@ public class FileUpload_Download {
 
 	public static WebDriver driver ; 
 	
+	@SuppressWarnings("deprecation")
 	public static void main(String[] args) throws IOException, InterruptedException {
 			
 	       
@@ -30,7 +31,8 @@ public class FileUpload_Download {
 	   driver.findElement(By.xpath("//*[@id=\"dropzoneInput-label\"]")).click();
 	   Thread.sleep(2000);
        Runtime.getRuntime().exec("C:\\Users\\saura\\Desktop\\FileUploadSection");
-   	  Thread.sleep(7000);
+   	  WebDriverWait wait = new WebDriverWait(driver,10);
+   	  wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//button[text()='Convert Now!']")));      
    			   //visibilityOfElementLocated(""));  
        JavascriptExecutor jse = (JavascriptExecutor)driver;
        jse.executeScript("window.scrollBy(0,200)");
