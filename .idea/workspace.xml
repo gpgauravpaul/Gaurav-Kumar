@@ -2,72 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="267d7400-a4b6-483b-a92e-df8069c67d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_asprise_ocr_java_ocr_api_15_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentracing_opentracing_api_0_33_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_40.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_40.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edgehtml_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium_Stuff/Selenium_4_Stuffs/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium_Stuff/Selenium_4_Stuffs/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/FileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/Window_Authentication_PopUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Selenium_4_Stuffs.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Selenium_Stuff/Selenium_4_Stuffs/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Selenium_Stuff/Selenium_4_Stuffs/Parent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Selenium_4_Stuffs.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/DataProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/GeWindowHandles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Issues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/LinksInothertabs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Paytm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Select_Class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/TestClass1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Window_Authentication_PopUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Xpath_CSS_Selector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/adding_Multiple_Products_In_Cart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/error.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_4_Stuffs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_4_Stuffs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium_Stuff/Selenium_4_Stuffs/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Encapsulation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/Action.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/GeWindowHandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/GeWindowHandles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/io/LinksInothertabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/FileDownload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Selenium_4_Stuffs.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Selenium_4_Stuffs.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/FileUpload.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,25 +137,33 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="419" y="276" width="441" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.800@0.0.1280.800" timestamp="1587305392939" />
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1587442158096">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1587445304274">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587404645894" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1587442700255" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1587445304274" />
     <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1587442158096" />
-    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1587442158095">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1587445304273">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1587404645891" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1587442700253" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1587445304273" />
     <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1587442158095" />
-    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1587442158094">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1587445304273">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1587404645890" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1587442700253" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1587445304273" />
     <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1587442158094" />
-    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1587442158095">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1587445304274">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1587404645893" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1587442700254" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1587445304274" />
     <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1587442158095" />
     <state x="333" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1578678285997">
       <screen x="0" y="0" width="1280" height="800" />

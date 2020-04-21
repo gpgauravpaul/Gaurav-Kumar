@@ -1,9 +1,12 @@
 package Selenium_Stuff.Selenium_4_Stuffs;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
 import java.io.File;
+import java.util.HashMap;
+
 public class FileDownload {
     public static class Action {
 
@@ -13,7 +16,12 @@ public class FileDownload {
 
             String path  = System.getProperty ("user.dir");
             System.setProperty("webdriver.chrome.driver", "/Users/gaurav.pauloutlook.in/Downloads/chromedriver");
-            driver = new ChromeDriver ();
+            HashMap<String, Object> chromePrefs = new HashMap<String, Object>();
+            chromePrefs.put("profile.default_content_settings.popups", 0);
+            chromePrefs.put("download.default_directory", path);
+            ChromeOptions o = new ChromeOptions();
+            o.setExperimentalOption ("prefs",chromePrefs);
+            driver = new ChromeDriver (o);
             driver.manage().window().maximize();
             driver.navigate ().to ("https://www.selenium.dev/downloads/");
             driver.findElement (By.linkText("32 bit Windows IE")).click ();
@@ -25,10 +33,10 @@ public class FileDownload {
             {
                 System.out.println ("File has been successfully downloaded");
             }
-            else {
+            else
+                {
                 System.out.println ("Something wrong with downloading process");
             }
-
 //Login screen appears ---
         }}
 }
