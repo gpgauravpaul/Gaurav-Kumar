@@ -15,7 +15,7 @@ public class Window_Authentication_PopUp {
       // Follow this below line.
         driver.get ("http://admin:admin@the-internet.herokuapp.com/");
         driver.findElement (By.xpath("//*[@id='content']/ul/li[3]/a")).click ();
-        
+
     }
 
 }
