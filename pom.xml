@@ -6,36 +6,45 @@
   <artifactId>Selenium_4_Stuffs</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-
   <name>Selenium_4_Stuffs</name>
   <url>http://maven.apache.org</url>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
   <dependencies>
+      <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+      <dependency>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-java</artifactId>
+          <version>3.141.59</version>
+      </dependency>
 
-<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-<dependency>
-    <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-java</artifactId>
-    <version>4.0.0-alpha-3</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.0.0</version>
-    <scope>test</scope>
-</dependency>
-<!-- https://mvnrepository.com/artifact/com.asprise.ocr/java-ocr-api -->
-<dependency>
+      <dependency>
     <groupId>com.asprise.ocr</groupId>
     <artifactId>java-ocr-api</artifactId>
     <version>15.3.0.3</version>
 </dependency>
-
+      <dependency>
+          <groupId>io.rest-assured</groupId>
+          <artifactId>rest-assured</artifactId>
+          <version>4.3.0</version>
+          <scope>test</scope>
+      </dependency>
+      <dependency>
+          <groupId>org.testng</groupId>
+          <artifactId>testng</artifactId>
+          <version>7.1.0</version>
+      </dependency>
+      <dependency>
+          <groupId>io.appium</groupId>
+          <artifactId>java-client</artifactId>
+          <version>7.3.0</version>
+      </dependency>
+      <dependency>
+          <groupId>io.appium</groupId>
+          <artifactId>java-client</artifactId>
+          <version>6.1.0</version>
+      </dependency>
 
   </dependencies>
 </project>
