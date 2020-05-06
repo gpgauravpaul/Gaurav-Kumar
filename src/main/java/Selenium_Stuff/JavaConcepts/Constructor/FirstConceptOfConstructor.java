@@ -1,4 +1,4 @@
-package Selenium_Stuff.Selenium_4_Stuffs.Constructor;
+package Selenium_Stuff.JavaConcepts.Constructor;
 
 public class FirstConceptOfConstructor {
 

@@ -1,4 +1,4 @@
-package Selenium_Stuff.Selenium_4_Stuffs.Super_This_Keyword;
+package Selenium_Stuff.JavaConcepts.Super_This_Keyword;
 
 public class ThisKeywordConstructorUse {
 

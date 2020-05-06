@@ -1,6 +1,4 @@
-package Selenium_Stuff.Selenium_4_Stuffs.Constructor;
-
-import java.lang.reflect.ParameterizedType;
+package Selenium_Stuff.JavaConcepts.Constructor;
 
 public class ParameterizedConstructor {
 

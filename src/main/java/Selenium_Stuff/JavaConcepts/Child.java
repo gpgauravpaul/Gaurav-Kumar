@@ -1,4 +1,4 @@
-package Selenium_Stuff.Selenium_4_Stuffs;
+package Selenium_Stuff.JavaConcepts;
 public class Child extends Parent{
 
     public static void main (String[] args) {
