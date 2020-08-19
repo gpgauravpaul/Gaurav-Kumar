@@ -1,0 +1,4 @@
+1. Interface can't implement an Interface
+2. By Default & Static Keyword, Interface can be implemented.
+3. By Static, Interface method can't be called by Reference or object of child class after implements that.
+4. Interface method can't be overridden in Implemented class.

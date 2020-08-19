@@ -1,0 +1,40 @@
+===== Lambda functions in Java programming ====
+
+1. Lambda function allows functional programming in Java.
+2. It is an anonymous function. (Nameless)
+3. No return type
+4. No modifier
+
+======================================================================
+
+public class Lambda1 {
+
+  ()-> { System.out.println ("I am Gaurav Kumar pal"); }
+  ()->  System.out.println ("I am Gaurav Kumar pal");
+
+======================================================================
+Multiplication logic with Lambda -
+
+(int a, int b) -> { System.out.println (a*b); }
+(int a, int b) ->  System.out.println (a*b);
+(a,b) ->  System.out.println (a*b);
+
+======================================================================
+Multiplication logic with Return type -
+
+(int a, int b)->{return a*b;}
+(a, b)->{return a*b;}
+(a, b)->return a*b;               // Can't remove curly bracket in case of return. //
+
+ALternate solution is - remove return
+(a, b)-> a*b;
+
+======================================================================
+Cube of a number logic with Return type -
+(int a)->{return a*b;}
+(a)->{return a^3;}
+(a)->return a^3;               // Can't remove curly bracket in case of return. //
+(a)->a^3;
+a->a^3;                        // Can remove paranthesis in case of  single variable //
+
+}

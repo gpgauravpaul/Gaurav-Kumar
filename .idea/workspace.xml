@@ -2,14 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="267d7400-a4b6-483b-a92e-df8069c67d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayLogic/LeftRightMovement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayUtility/CellLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomException/Checked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomException/Unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Programs/ALternate_number_Finder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Programs/Merge_2_Sorted_Revise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/ABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/Functional_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/Interface" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/Interface123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/Lambda/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/Lambda/interface32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/Static_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static_Interface/ain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Default/Default_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Default/Default_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Default/Lambda1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Default/Lambda_Basics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Default/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$DataSheet.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Gaurav-Kumar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Gaurav-Kumar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/FileDownload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Selenium_4_Stuffs.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Selenium_4_Stuffs.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Action.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/FileUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayUtility/Datadrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayUtility/Datadrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayUtility/ExcelUtitity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayUtility/ExcelUtitity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Programs/Merge_2_Sorted_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Programs/Merge_2_Sorted_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/Window_Authentication_PopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/Window_Authentication_PopUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/DataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/DataProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/FileDownload$Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/FileDownload$Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/FileDownload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/FileDownload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/GeWindowHandles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/GeWindowHandles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Issues.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Issues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/LinksInothertabs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/LinksInothertabs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Paytm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Paytm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Select_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Select_Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/TestClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/TestClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Window_Authentication_PopUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Window_Authentication_PopUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Xpath_CSS_Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/Xpath_CSS_Selector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/adding_Multiple_Products_In_Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/adding_Multiple_Products_In_Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/error.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_Stuff/Selenium_4_Stuffs/error.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,22 +64,40 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Vv1qsOAAHNMWE3cbUIk8pUBMkC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.FileDownload$Action">
-    <configuration name="Action" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium_Stuff.Selenium_4_Stuffs.Action" />
-      <module name="Selenium_4_Stuffs" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Java_8/Java_Lambda_F/Default" />
+      <recent name="$PROJECT_DIR$/src/main/java/Java_8/Java_Lambda_F" />
+      <recent name="$PROJECT_DIR$/src/main/java/Java_8/Java_Lambda_F/Lambda" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Window_Authentication_PopUp">
+    <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static_Interface.Lambda.BaseClass" />
+      <module name="Gaurav-Kumar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium_Stuff.Selenium_4_Stuffs.*" />
+          <option name="PATTERN" value="Static_Interface.Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium_Stuff.Selenium_4_Stuffs.Child" />
-      <module name="Selenium_4_Stuffs" />
+    <configuration name="Maininterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static_Interface.Maininterface" />
+      <module name="Gaurav-Kumar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium_Stuff.Selenium_4_Stuffs.*" />
+          <option name="PATTERN" value="Static_Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDownload$Action" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium_Stuff.Selenium_4_Stuffs.FileDownload$Action" />
-      <module name="Selenium_4_Stuffs" />
+    <configuration name="Merge_2_Sorted_Revise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programs.Merge_2_Sorted_Revise" />
+      <module name="Gaurav-Kumar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium_Stuff.Selenium_4_Stuffs.*" />
+          <option name="PATTERN" value="Java_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium_Stuff.Selenium_4_Stuffs.FileUpload" />
-      <module name="Selenium_4_Stuffs" />
+    <configuration name="Merge_Revise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programs.Merge_Revise1" />
+      <module name="Gaurav-Kumar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium_Stuff.Selenium_4_Stuffs.*" />
+          <option name="PATTERN" value="Java_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,9 +144,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Window_Authentication_PopUp" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Window_Authentication_PopUp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Selenium_Stuff.Selenium_4_Stuffs.Window_Authentication_PopUp" />
-      <module name="Selenium_4_Stuffs" />
+      <module name="Gaurav-Kumar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Selenium_Stuff.Selenium_4_Stuffs.*" />
@@ -102,20 +157,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b" />
-      <module name="Selenium_4_Stuffs" />
+    <configuration name="ain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static_Interface.ain" />
+      <module name="Gaurav-Kumar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Static_Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileDownload$Action" />
-        <item itemvalue="Application.Action" />
-        <item itemvalue="Application.Child" />
-        <item itemvalue="Application.FileUpload" />
-        <item itemvalue="Application.b" />
+        <item itemvalue="Application.Merge_2_Sorted_Revise" />
+        <item itemvalue="Application.Merge_Revise1" />
+        <item itemvalue="Application.BaseClass" />
+        <item itemvalue="Application.ain" />
+        <item itemvalue="Application.Maininterface" />
       </list>
     </recent_temporary>
   </component>
@@ -132,42 +193,176 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="419" y="276" width="441" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587305392939">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="240" y="29" key="#Plugins" timestamp="1592664558534">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="419" y="276" width="441" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.800@0.0.1280.800" timestamp="1587305392939" />
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1587445304274">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state x="240" y="29" key="#Plugins/0.23.1280.721@0.23.1280.721" timestamp="1592664558534" />
+    <state x="128" y="23" key="#Project_Structure" timestamp="1592740864977">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587404645894" />
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1587442700255" />
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1587445304274" />
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1587442158096" />
-    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1587445304273">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.721@0.23.1280.721" timestamp="1592740864977" />
+    <state x="316" y="23" key="#Window_Authentication_PopUp" timestamp="1597738776433">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1587404645891" />
-    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1587442700253" />
-    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1587445304273" />
-    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1587442158095" />
-    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1587445304273">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state x="316" y="23" key="#Window_Authentication_PopUp/0.23.1280.723@0.23.1280.723" timestamp="1597724399447" />
+    <state x="316" y="23" key="#Window_Authentication_PopUp/0.23.1280.724@0.23.1280.724" timestamp="1597738776433" />
+    <state x="316" y="23" key="#Window_Authentication_PopUp/0.23.1280.726@0.23.1280.726" timestamp="1597236879620" />
+    <state x="316" y="23" key="#Window_Authentication_PopUp1" timestamp="1597724211462">
+      <screen x="0" y="23" width="1280" height="723" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1587404645890" />
-    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1587442700253" />
-    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1587445304273" />
-    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1587442158094" />
-    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1587445304274">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state x="316" y="23" key="#Window_Authentication_PopUp1/0.23.1280.723@0.23.1280.723" timestamp="1597724211462" />
+    <state x="366" y="190" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592744160604">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1587404645893" />
-    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1587442700254" />
-    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1587445304274" />
-    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1587442158095" />
-    <state x="333" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1578678285997">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="366" y="190" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.721@0.23.1280.721" timestamp="1592744160604" />
+    <state x="453" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1594022010270">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state x="333" y="216" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1578678285997" />
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser/0.23.1280.716@0.23.1280.716" timestamp="1593002171504" />
+    <state x="453" y="106" key="#com.intellij.ide.util.MemberChooser/0.23.1280.721@0.23.1280.721" timestamp="1592888658253" />
+    <state x="453" y="106" key="#com.intellij.ide.util.MemberChooser/0.23.1280.726@0.23.1280.726" timestamp="1594022010270" />
+    <state x="328" y="124" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592638751037">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="328" y="124" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.723@0.23.1280.723" timestamp="1592638751037" />
+    <state x="223" y="312" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592742531222">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="223" y="312" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1280.721@0.23.1280.721" timestamp="1592742531222" />
+    <state x="378" y="139" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590740046979">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="378" y="139" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1280.724@0.23.1280.724" timestamp="1590740046979" />
+    <state width="1238" height="169" key="GridCell.Tab.0.bottom" timestamp="1597752323397">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1593402694386" />
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1592888939181" />
+    <state width="1238" height="169" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1597752323397" />
+    <state width="1238" height="169" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1597752277383" />
+    <state width="1238" height="169" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1597751332119" />
+    <state width="1238" height="172" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1590738210954" />
+    <state width="1238" height="169" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1597227497837" />
+    <state width="1238" height="169" key="GridCell.Tab.0.center" timestamp="1597752323396">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1593402694385" />
+    <state width="1238" height="170" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1592888939180" />
+    <state width="1238" height="169" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1597752323396" />
+    <state width="1238" height="169" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1597752277381" />
+    <state width="1238" height="169" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1597751332118" />
+    <state width="1238" height="172" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1590738210952" />
+    <state width="1238" height="169" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1597227497836" />
+    <state width="1238" height="169" key="GridCell.Tab.0.left" timestamp="1597752323395">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1593402694384" />
+    <state width="1238" height="170" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1592888939179" />
+    <state width="1238" height="169" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1597752323395" />
+    <state width="1238" height="169" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1597752277379" />
+    <state width="1238" height="169" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1597751332117" />
+    <state width="1238" height="172" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1590738210951" />
+    <state width="1238" height="169" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1597227497836" />
+    <state width="1238" height="169" key="GridCell.Tab.0.right" timestamp="1597752323396">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1593402694386" />
+    <state width="1238" height="170" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1592888939180" />
+    <state width="1238" height="169" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1597752323396" />
+    <state width="1238" height="169" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1597752277382" />
+    <state width="1238" height="169" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1597751332118" />
+    <state width="1238" height="172" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1590738210952" />
+    <state width="1238" height="169" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1597227497837" />
+    <state width="1238" height="122" key="GridCell.Tab.1.bottom" timestamp="1597751864237">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="124" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1589283153189" />
+    <state width="1238" height="122" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1597751578513" />
+    <state width="1238" height="122" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1597751864237" />
+    <state width="1238" height="122" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1597160094071" />
+    <state width="1238" height="122" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1597227446831" />
+    <state width="1238" height="122" key="GridCell.Tab.1.center" timestamp="1597751864236">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="124" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1589283153187" />
+    <state width="1238" height="122" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1597751578511" />
+    <state width="1238" height="122" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1597751864236" />
+    <state width="1238" height="122" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1597160094069" />
+    <state width="1238" height="122" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1597227446830" />
+    <state width="1238" height="122" key="GridCell.Tab.1.left" timestamp="1597751864230">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="124" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1589283153187" />
+    <state width="1238" height="122" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1597751578511" />
+    <state width="1238" height="122" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1597751864230" />
+    <state width="1238" height="122" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1597160094069" />
+    <state width="1238" height="122" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1597227446830" />
+    <state width="1238" height="122" key="GridCell.Tab.1.right" timestamp="1597751864237">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="124" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1589283153188" />
+    <state width="1238" height="122" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1597751578512" />
+    <state width="1238" height="122" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1597751864237" />
+    <state width="1238" height="122" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1597160094070" />
+    <state width="1238" height="122" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1597227446831" />
+    <state width="500" height="403" key="SwitcherDM" timestamp="1589255853477">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="500" height="403" key="SwitcherDM/0.23.1280.726@0.23.1280.726" timestamp="1589255853477" />
+    <state x="347" y="136" width="586" height="490" key="find.popup" timestamp="1597803431231">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="347" y="136" width="586" height="490" key="find.popup/0.23.1280.724@0.23.1280.724" timestamp="1597803431231" />
+    <state x="305" y="62" width="670" height="684" key="search.everywhere.popup" timestamp="1592140129823">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="305" y="62" width="670" height="684" key="search.everywhere.popup/0.23.1280.723@0.23.1280.723" timestamp="1592140129823" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Java_Programs/Merge_and_Sort_2_Arrays.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ArrayLogic/LeftRightMovement.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Static_Interface/Static_Interface.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Java_Programs/Merge_2_Sorted_Revise.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Selenium_Stuff/Selenium_4_Stuffs/Window_Authentication_PopUp.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
