@@ -33,10 +33,11 @@ public class adding_Multiple_Products_In_Cart {
 	    driver.findElement (By.xpath ("//*[text()='Start']")).click ();
 	    // Fluent Wait
 		WebElement element = driver.findElement(By.id ("finish"));
+		WebElement element1 = driver.findElement(By.id ("finish"));
 		Wait wait  = new FluentWait (driver).withTimeout (Duration.ofSeconds (5)).pollingEvery (Duration.ofSeconds (2))
 				.ignoreAll (Collections.singleton (Exception.class));
 
-		wait.until (ExpectedConditions.visibilityOf (element));
+		wait.until (ExpectedConditions.or (ExpectedConditions.elementToBeClickable (element),ExpectedConditions.visibilityOf(element1)));
 
 
 		String str = element.getText ();
